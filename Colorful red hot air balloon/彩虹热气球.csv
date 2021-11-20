@@ -1,0 +1,98 @@
+BLItemNo,ElementId,LdrawId,PartName,BLColorId,LDrawColorId,ColorName,ColorCategory,Qty,Weight
+13965,6058093,13965,Arch 1 x 3 x 3,2,19,Tan,Solid Colors,4,1.51
+15254,6106187,15254,Arch 1 x 6 x 2 - Medium Thick Top without Reinforced Underside,2,19,Tan,Solid Colors,2,2.53
+15332,,15332,Fence 1 x 4 x 2 Spindled with 4 Studs,8,6,Brown,Solid Colors,4,1.52
+2431,4116732,2431,Tile 1 x 4,8,6,Brown,Solid Colors,4,0.54
+3001,4165644,3001,Brick 2 x 4,24,22,Purple,Solid Colors,5,2.32
+3001,300124,3001,Brick 2 x 4,3,14,Yellow,Solid Colors,5,2.32
+3001,300123,3001,Brick 2 x 4,7,1,Blue,Solid Colors,6,2.32
+3001,,3001,Brick 2 x 4,23,13,Pink,Solid Colors,6,2.32
+3001,4106356,3001,Brick 2 x 4,6,2,Green,Solid Colors,6,2.32
+3001,4153827,3001,Brick 2 x 4,4,25,Orange,Solid Colors,72,2.32
+3001,300121,3001,Brick 2 x 4,5,4,Red,Solid Colors,6,2.32
+3001,,3001,Brick 2 x 4,87,232,Sky Blue,Solid Colors,6,2.32
+3002,4109674,3002,Brick 2 x 3,6,2,Green,Solid Colors,8,1.92
+3003,300324,3003,Brick 2 x 2,3,14,Yellow,Solid Colors,10,1.35
+3003,300323,3003,Brick 2 x 2,7,1,Blue,Solid Colors,18,1.35
+3003,300328,3003,Brick 2 x 2,6,2,Green,Solid Colors,18,1.35
+3003,4153825,3003,Brick 2 x 2,4,25,Orange,Solid Colors,18,1.35
+3003,,3003,Brick 2 x 2,87,232,Sky Blue,Solid Colors,8,1.35
+3003,,3003,Brick 2 x 2,23,13,Pink,Solid Colors,18,1.35
+3003,300301,3003,Brick 2 x 2,1,15,White,Solid Colors,16,1.35
+3003,300321,3003,Brick 2 x 2,5,4,Red,Solid Colors,8,1.35
+3003,4165649,3003,Brick 2 x 2,24,22,Purple,Solid Colors,10,1.35
+3004,300424,3004,Brick 1 x 2,3,14,Yellow,Solid Colors,18,0.8
+3004,,3004,Brick 1 x 2,24,22,Purple,Solid Colors,18,0.83
+3004,4107736,3004,Brick 1 x 2,6,2,Green,Solid Colors,20,0.8
+3004,300423,3004,Brick 1 x 2,7,1,Blue,Solid Colors,16,0.8
+3004,4121739,3004,Brick 1 x 2,4,25,Orange,Solid Colors,16,0.8
+3004,,3004,Brick 1 x 2,23,13,Pink,Solid Colors,16,0.83
+3004,,3004,Brick 1 x 2,87,232,Sky Blue,Solid Colors,19,0.83
+3004,300421,3004,Brick 1 x 2,5,4,Red,Solid Colors,19,0.8
+3004,300401,3004,Brick 1 x 2,1,15,White,Solid Colors,6,0.8
+3005,300523,3005,Brick 1 x 1,7,1,Blue,Solid Colors,1,0.44
+3005,4173805,3005,Brick 1 x 1,4,25,Orange,Solid Colors,1,0.44
+3005,4160990,3005,Brick 1 x 1,8,6,Brown,Solid Colors,8,0.44
+3005,,3005,Brick 1 x 1,24,22,Purple,Solid Colors,1,0.44
+3005,300521,3005,Brick 1 x 1,5,4,Red,Solid Colors,1,0.44
+3005,,3005,Brick 1 x 1,87,232,Sky Blue,Solid Colors,1,0.44
+3005,300528,3005,Brick 1 x 1,6,2,Green,Solid Colors,1,0.44
+3005,300524,3005,Brick 1 x 1,3,14,Yellow,Solid Colors,1,0.44
+3005,300509,3005,Brick 1 x 1,23,13,Pink,Solid Colors,1,0.44
+3010,4113916,3010,Brick 1 x 4,2,19,Tan,Solid Colors,2,1.64
+3010,4165665,3010,Brick 1 x 4,24,22,Purple,Solid Colors,4,1.64
+3010,301023,3010,Brick 1 x 4,7,1,Blue,Solid Colors,1,1.64
+3010,4112838,3010,Brick 1 x 4,6,2,Green,Solid Colors,15,1.64
+3010,301021,3010,Brick 1 x 4,5,4,Red,Solid Colors,4,1.64
+3010,4118827,3010,Brick 1 x 4,4,25,Orange,Solid Colors,1,1.64
+3010,,3010,Brick 1 x 4,23,13,Pink,Solid Colors,1,1.64
+3010,,3010,Brick 1 x 4,87,232,Sky Blue,Solid Colors,4,1.64
+3010,301024,3010,Brick 1 x 4,3,14,Yellow,Solid Colors,4,1.64
+3020,302028,3020,Plate 2 x 4,6,2,Green,Solid Colors,2,1.2
+3020,302023,3020,Plate 2 x 4,7,1,Blue,Solid Colors,2,1.2
+3020,4158355,3020,Plate 2 x 4,4,25,Orange,Solid Colors,2,1.2
+3022,302228,3022,Plate 2 x 2,6,2,Green,Solid Colors,1,0.64
+3022,4159007,3022,Plate 2 x 2,4,25,Orange,Solid Colors,1,0.64
+3022,302201,3022,Plate 2 x 2,1,15,White,Solid Colors,5,0.64
+3022,302223,3022,Plate 2 x 2,7,1,Blue,Solid Colors,1,0.64
+3022,,3022,Plate 2 x 2,87,232,Sky Blue,Solid Colors,3,0.64
+3022,4165671,3022,Plate 2 x 2,24,22,Purple,Solid Colors,3,0.64
+3022,302224,3022,Plate 2 x 2,3,14,Yellow,Solid Colors,3,0.64
+3022,302221,3022,Plate 2 x 2,5,4,Red,Solid Colors,3,0.64
+3022,,3022,Plate 2 x 2,23,13,Pink,Solid Colors,1,0.64
+3023,4177932,3023,Plate 1 x 2,4,25,Orange,Solid Colors,5,0.36
+3023,302321,3023,Plate 1 x 2,5,4,Red,Solid Colors,4,0.36
+3023,302323,3023,Plate 1 x 2,7,1,Blue,Solid Colors,5,0.36
+3023,,3023,Plate 1 x 2,24,22,Purple,Solid Colors,4,0.36
+3023,302328,3023,Plate 1 x 2,6,2,Green,Solid Colors,5,0.36
+3023,4493568,3023,Plate 1 x 2,87,232,Sky Blue,Solid Colors,4,0.36
+3023,,3023,Plate 1 x 2,23,13,Pink,Solid Colors,5,0.36
+3023,302324,3023,Plate 1 x 2,3,14,Yellow,Solid Colors,4,0.36
+3024,302428,3024,Plate 1 x 1,6,2,Green,Solid Colors,2,0.2
+3024,,3024,Plate 1 x 1,23,13,Pink,Solid Colors,2,0.2
+3024,4524929,3024,Plate 1 x 1,4,25,Orange,Solid Colors,2,0.2
+3024,302423,3024,Plate 1 x 1,7,1,Blue,Solid Colors,2,0.2
+3031,4243812,3031,Plate 4 x 4,1,15,White,Solid Colors,1,2.22
+3068b,4107762,3068b,Tile 2 x 2 with Groove,6,2,Green,Solid Colors,1,0.48
+3068b,306824,3068b,Tile 2 x 2 with Groove,3,14,Yellow,Solid Colors,1,0.48
+3068b,306821,3068b,Tile 2 x 2 with Groove,5,4,Red,Solid Colors,1,0.48
+3068b,306823,3068b,Tile 2 x 2 with Groove,7,1,Blue,Solid Colors,1,0.48
+3069b,306901,3069b,Tile 1 x 2 with Groove,1,15,White,Solid Colors,4,0.26
+3666,,3666,Plate 1 x 6,8,6,Brown,Solid Colors,2,1.06
+3710,,3710,Plate 1 x 4,23,13,Pink,Solid Colors,4,0.71
+3710,,3710,Plate 1 x 4,24,22,Purple,Solid Colors,1,0.71
+3710,371024,3710,Plate 1 x 4,3,14,Yellow,Solid Colors,1,0.71
+3710,4216362,3710,Plate 1 x 4,87,232,Sky Blue,Solid Colors,1,0.71
+3710,371001,3710,Plate 1 x 4,1,15,White,Solid Colors,8,0.71
+3710,4114378,3710,Plate 1 x 4,8,6,Brown,Solid Colors,2,0.71
+3710,371021,3710,Plate 1 x 4,5,4,Red,Solid Colors,1,0.71
+3958,,3958,Plate 6 x 6,8,6,Brown,Solid Colors,1,4.71
+3958,4125217,3958,Plate 6 x 6,2,19,Tan,Solid Colors,1,4.71
+6091,6100223,6091,"Slope, Curved 2 x 1 x 1 1/3 with Recessed Stud",6,2,Green,Solid Colors,3,0.65
+6091,4189123,6091,"Slope, Curved 2 x 1 x 1 1/3 with Recessed Stud",7,1,Blue,Solid Colors,3,0.65
+6091,6184782,6091,"Slope, Curved 2 x 1 x 1 1/3 with Recessed Stud",5,4,Red,Solid Colors,3,0.65
+6091,6285777,6091,"Slope, Curved 2 x 1 x 1 1/3 with Recessed Stud",1,15,White,Solid Colors,8,0.65
+6091,6361082,6091,"Slope, Curved 2 x 1 x 1 1/3 with Recessed Stud",3,14,Yellow,Solid Colors,3,0.65
+,,,,,,,,,
+Total qty,Total Weight,,,,,,,,
+580,725.7103,,,,,,,,
